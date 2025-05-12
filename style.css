@@ -92,6 +92,17 @@ body {
     box-shadow:  0 2px 8px rgba(0, 0, 0, 0.4);
     border-radius: 24px;
 }
+
+.operator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    height: 70px;
+    background-color:#B8E2C8;
+    box-shadow:  0 2px 8px rgba(0, 0, 0, 0.4);
+    border-radius: 24px;
+}
  
 .zero {
     display: flex;
